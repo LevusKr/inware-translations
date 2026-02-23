@@ -254,6 +254,13 @@
     <string name="settings_general_block_screen_capture_description">阻止截取屏幕内容</string>
     <string name="settings_general_hide_3rd_party_overlays_headline">隐藏第三方叠加层</string>
     <string name="settings_general_hide_3rd_party_overlays_description">隐藏非系统应用创建的叠加层</string>
+    <string name="settings_general_interactive_haptics_category">Interactive haptics</string>
+    <string name="settings_general_feedback_level_headline">Touch feedback</string>
+    <string name="settings_general_feedback_level_description">Vibrate on touch interactions</string>
+    <string name="settings_general_feedback_level_none">None</string>
+    <string name="settings_general_feedback_level_minimal">Minimal</string>
+    <string name="settings_general_feedback_level_default">Default</string>
+    <string name="settings_general_feedback_level_expressive">Expressive</string>
     <string name="settings_general_units_category">单位</string>
     <string name="settings_general_temperature_headline">温度</string>
 

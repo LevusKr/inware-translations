@@ -254,6 +254,13 @@
     <string name="settings_general_block_screen_capture_description">Împiedicați capturarea conținutului de pe ecran</string>
     <string name="settings_general_hide_3rd_party_overlays_headline">Ascundeți suprapunerile terțe</string>
     <string name="settings_general_hide_3rd_party_overlays_description">Ascundeți suprapunerile create de aplicații non-sistem</string>
+    <string name="settings_general_interactive_haptics_category">Interactive haptics</string>
+    <string name="settings_general_feedback_level_headline">Touch feedback</string>
+    <string name="settings_general_feedback_level_description">Vibrate on touch interactions</string>
+    <string name="settings_general_feedback_level_none">None</string>
+    <string name="settings_general_feedback_level_minimal">Minimal</string>
+    <string name="settings_general_feedback_level_default">Default</string>
+    <string name="settings_general_feedback_level_expressive">Expressive</string>
     <string name="settings_general_units_category">Unități</string>
     <string name="settings_general_temperature_headline">Temperatură</string>
 

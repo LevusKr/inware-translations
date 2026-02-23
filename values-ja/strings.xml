@@ -254,6 +254,13 @@
     <string name="settings_general_block_screen_capture_description">画面内容のキャプチャをブロックします</string>
     <string name="settings_general_hide_3rd_party_overlays_headline">サードパーティ製のオーバーレイを隠す</string>
     <string name="settings_general_hide_3rd_party_overlays_description">システム以外のアプリが作成したオーバーレイを非表示にします</string>
+    <string name="settings_general_interactive_haptics_category">Interactive haptics</string>
+    <string name="settings_general_feedback_level_headline">Touch feedback</string>
+    <string name="settings_general_feedback_level_description">Vibrate on touch interactions</string>
+    <string name="settings_general_feedback_level_none">None</string>
+    <string name="settings_general_feedback_level_minimal">Minimal</string>
+    <string name="settings_general_feedback_level_default">Default</string>
+    <string name="settings_general_feedback_level_expressive">Expressive</string>
     <string name="settings_general_units_category">単位</string>
     <string name="settings_general_temperature_headline">温度</string>
 

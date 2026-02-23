@@ -236,7 +236,7 @@
 
     <!-- Settings Hub page -->
     <string name="settings_general_entry_headline">General</string>
-    <string name="settings_general_entry_description">Security, clipboard and units</string>
+    <string name="settings_general_entry_description">Security, clipboard, haptics and units</string>
     <string name="settings_appearance_entry_headline">Appearance</string>
     <string name="settings_appearance_entry_description">Dark mode and colors</string>
     <string name="settings_advanced_entry_headline">Advanced</string>
@@ -254,6 +254,13 @@
     <string name="settings_general_block_screen_capture_description">Prevent the capture of screen content</string>
     <string name="settings_general_hide_3rd_party_overlays_headline">Hide third-party overlays</string>
     <string name="settings_general_hide_3rd_party_overlays_description">Hide overlays created by non-system apps</string>
+    <string name="settings_general_interactive_haptics_category">Interactive haptics</string>
+    <string name="settings_general_feedback_level_headline">Touch feedback</string>
+    <string name="settings_general_feedback_level_description">Vibrate on touch interactions</string>
+    <string name="settings_general_feedback_level_none">None</string>
+    <string name="settings_general_feedback_level_minimal">Minimal</string>
+    <string name="settings_general_feedback_level_default">Default</string>
+    <string name="settings_general_feedback_level_expressive">Expressive</string>
     <string name="settings_general_units_category">Units</string>
     <string name="settings_general_temperature_headline">Temperature</string>
 
