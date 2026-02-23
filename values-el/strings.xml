@@ -9,11 +9,16 @@
     <string name="generic_detected">Ανιχνεύθηκε</string>
     <string name="generic_not_detected">Δεν ανιχνεύθηκε</string>
     <string name="generic_allow">Επιτρέπεται</string>
+    <string name="generic_deny">Deny</string>
     <string name="generic_copied_to_clipboard">Αντιγράφηκε στο πρόχειρο</string>
     <string name="generic_kb_per_second"><xliff:g id="speed" example="36">%s</xliff:g> KB/δλ</string>
     <string name="generic_mb_per_second"><xliff:g id="speed" example="36">%s</xliff:g> MB/δλ</string>
     <string name="generic_gb_per_second"><xliff:g id="speed" example="36">%s</xliff:g> GB/δλ</string>
     <string name="generic_tb_per_second"><xliff:g id="speed" example="36">%s</xliff:g> TB/δλ</string>
+
+    <!-- Analytics consent -->
+    <string name="analytics_consent_title">Allow analytics?</string>
+    <string name="analytics_consent_message">With your permission, Inware can collect anonymous usage analytics from this device to help us improve the app.\n\nYou can turn this off or reset your device\'s identity in Settings.</string>
 
     <!-- Permissions -->
     <string name="permission_required_heading">Απαιτείται άδεια</string>
@@ -307,7 +312,6 @@
 
     These strings may still be used in the future. Translations are kept just in case.
      -->
-    <string name="legacy_deny">Deny</string>
     <string name="legacy_new_version_available">New version available</string>
     <string name="legacy_new_version_dialog_message">Upgrade to the latest version for a better experience</string>
     <string name="legacy_update">Update</string>
@@ -324,6 +328,4 @@
     <string name="legacy_augmented_reality">Augmented Reality</string>
     <string name="legacy_permission_dialog_learn_more">Learn More</string>
     <string name="legacy_memory_storage_permission_explanation">The storage permission is required to be able to display storage-related details.</string>
-    <string name="legacy_analytics_dialog_title">Allow analytics?</string>
-    <string name="legacy_analytics_dialog_message">With your permission, Inware can collect anonymous usage analytics from this device to help us improve the app.\n\nYou can turn this off or reset your device\'s identity in Settings.</string>
 </resources>

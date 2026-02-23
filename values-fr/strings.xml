@@ -9,11 +9,16 @@
     <string name="generic_detected">Détecté</string>
     <string name="generic_not_detected">Non détecté</string>
     <string name="generic_allow">Autoriser</string>
+    <string name="generic_deny">Refuser</string>
     <string name="generic_copied_to_clipboard">Copié dans le presse-papier</string>
     <string name="generic_kb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> ko/s</string>
     <string name="generic_mb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> Mo/s</string>
     <string name="generic_gb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> Go/s</string>
     <string name="generic_tb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> To/s</string>
+
+    <!-- Analytics consent -->
+    <string name="analytics_consent_title">Autoriser la collecte de données ?</string>
+    <string name="analytics_consent_message">Avec votre permission, Inware peut collecter des données d\'utilisation anonymes depuis cet appareil pour nous aider à améliorer l\'application.\n\nVous pouvez désactiver cette option ou réinitialiser l\'identité de votre appareil à partir des Paramètres.</string>
 
     <!-- Permissions -->
     <string name="permission_required_heading">Autorisation requise</string>
@@ -236,7 +241,7 @@
 
     <!-- Settings Hub page -->
     <string name="settings_general_entry_headline">Général</string>
-    <string name="settings_general_entry_description">Sécurité, presse-papier et unités</string>
+    <string name="settings_general_entry_description">Sécurité, presse-papier, haptique et unités</string>
     <string name="settings_appearance_entry_headline">Apparence</string>
     <string name="settings_appearance_entry_description">Mode sombre et couleurs</string>
     <string name="settings_advanced_entry_headline">Avancé</string>
@@ -254,13 +259,13 @@
     <string name="settings_general_block_screen_capture_description">Empêcher l\'enregistrement du contenu de l\'écran</string>
     <string name="settings_general_hide_3rd_party_overlays_headline">Masquer les overlays tierces</string>
     <string name="settings_general_hide_3rd_party_overlays_description">Masquer les overlays créés par les applications autres que le système</string>
-    <string name="settings_general_interactive_haptics_category">Interactive haptics</string>
-    <string name="settings_general_feedback_level_headline">Touch feedback</string>
-    <string name="settings_general_feedback_level_description">Vibrate on touch interactions</string>
-    <string name="settings_general_feedback_level_none">None</string>
+    <string name="settings_general_interactive_haptics_category">Retour haptique interactif</string>
+    <string name="settings_general_feedback_level_headline">Retour tactile</string>
+    <string name="settings_general_feedback_level_description">Vibrer lors des interactions tactiles</string>
+    <string name="settings_general_feedback_level_none">Aucun</string>
     <string name="settings_general_feedback_level_minimal">Minimal</string>
-    <string name="settings_general_feedback_level_default">Default</string>
-    <string name="settings_general_feedback_level_expressive">Expressive</string>
+    <string name="settings_general_feedback_level_default">Par défaut</string>
+    <string name="settings_general_feedback_level_expressive">Expressif</string>
     <string name="settings_general_units_category">Unités</string>
     <string name="settings_general_temperature_headline">Température</string>
 
@@ -307,7 +312,6 @@
 
     These strings may still be used in the future. Translations are kept just in case.
      -->
-    <string name="legacy_deny">Refuser</string>
     <string name="legacy_new_version_available">Nouvelle version disponible</string>
     <string name="legacy_new_version_dialog_message">Mettez à jour vers la dernière version pour une meilleure expérience</string>
     <string name="legacy_update">Mettre à jour</string>
@@ -324,6 +328,4 @@
     <string name="legacy_augmented_reality">Réalité augmentée</string>
     <string name="legacy_permission_dialog_learn_more">En savoir plus</string>
     <string name="legacy_memory_storage_permission_explanation">L\'autorisation à la gestion du stockage est nécessaire pour pouvoir afficher les détails relatifs au stockage.</string>
-    <string name="legacy_analytics_dialog_title">Allow analytics?</string>
-    <string name="legacy_analytics_dialog_message">With your permission, Inware can collect anonymous usage analytics from this device to help us improve the app.\n\nYou can turn this off or reset your device\'s identity in Settings.</string>
 </resources>

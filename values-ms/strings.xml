@@ -9,11 +9,16 @@
     <string name="generic_detected">Dikesan</string>
     <string name="generic_not_detected">Tidak Dikesan</string>
     <string name="generic_allow">Benarkan</string>
+    <string name="generic_deny">Jangan Benarkan</string>
     <string name="generic_copied_to_clipboard">Disalin ke papan keratan</string>
     <string name="generic_kb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> KB/s</string>
     <string name="generic_mb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> MB/s</string>
     <string name="generic_gb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> GB/s</string>
     <string name="generic_tb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> TB/s</string>
+
+    <!-- Analytics consent -->
+    <string name="analytics_consent_title">Benarkan analitik?</string>
+    <string name="analytics_consent_message">Dengan kebenaran anda, Inware boleh mengumpul analitik penggunaan rahsia daripada peranti ini untuk membantu kami menambah baik aplikasi.\n\nAnda boleh mematikan ini atau menetapkan semula identiti peranti anda dalam Tetapan.</string>
 
     <!-- Permissions -->
     <string name="permission_required_heading">Kebenaran diperlukan</string>
@@ -308,7 +313,6 @@
 
     These strings may still be used in the future. Translations are kept just in case.
      -->
-    <string name="legacy_deny">Jangan Benarkan</string>
     <string name="legacy_new_version_available">Versi baru tersedia</string>
     <string name="legacy_new_version_dialog_message">Naik taraf kepada versi terkini untuk pengalaman yang lebih baik</string>
     <string name="legacy_update">Kemaskini</string>
@@ -325,6 +329,4 @@
     <string name="legacy_augmented_reality">Pengantara Realiti</string>
     <string name="legacy_permission_dialog_learn_more">Ketahui lebih lanjut</string>
     <string name="legacy_memory_storage_permission_explanation">Kebenaran storan diperlukan untuk dapat memaparkan butiran berkaitan storan.</string>
-    <string name="legacy_analytics_dialog_title">Benarkan analitik?</string>
-    <string name="legacy_analytics_dialog_message">Dengan kebenaran anda, Inware boleh mengumpul analitik penggunaan rahsia daripada peranti ini untuk membantu kami menambah baik aplikasi.\n\nAnda boleh mematikan ini atau menetapkan semula identiti peranti anda dalam Tetapan.</string>
 </resources>

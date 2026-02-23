@@ -9,11 +9,16 @@
     <string name="generic_detected">Wykryto</string>
     <string name="generic_not_detected">Nie wykryto</string>
     <string name="generic_allow">Zezwól</string>
+    <string name="generic_deny">Odrzuć</string>
     <string name="generic_copied_to_clipboard">Skopiowano do schowka</string>
     <string name="generic_kb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> KB/s</string>
     <string name="generic_mb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> MB/s</string>
     <string name="generic_gb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> GB/s</string>
     <string name="generic_tb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> TB/s</string>
+
+    <!-- Analytics consent -->
+    <string name="analytics_consent_title">Włączyć analitykę?</string>
+    <string name="analytics_consent_message">Za Twoją zgodą Inware może zbierać anonimowe dane dotyczące korzystania z tego urządzenia, aby pomóc nam w ulepszaniu aplikacji.\n\nMożesz wyłączyć tę funkcję lub zresetować tożsamość urządzenia w Ustawieniach.</string>
 
     <!-- Permissions -->
     <string name="permission_required_heading">Wymagane uprawnienia</string>
@@ -308,7 +313,6 @@
 
     These strings may still be used in the future. Translations are kept just in case.
      -->
-    <string name="legacy_deny">Odrzuć</string>
     <string name="legacy_new_version_available">Dostępna jest nowa wersja</string>
     <string name="legacy_new_version_dialog_message">Zaktualizuj do najnowszej wersji, aby uzyskać najlepsze efekty</string>
     <string name="legacy_update">Aktualizuj</string>
@@ -325,6 +329,4 @@
     <string name="legacy_augmented_reality">Rozszerzona rzeczywistość</string>
     <string name="legacy_permission_dialog_learn_more">Dowiedz się więcej</string>
     <string name="legacy_memory_storage_permission_explanation">Aby wyświetlić szczegóły pamięci, aplikacja potrzebuje uprawnienia do pamięci masowej.</string>
-    <string name="legacy_analytics_dialog_title">Włączyć analitykę?</string>
-    <string name="legacy_analytics_dialog_message">Za Twoją zgodą Inware może zbierać anonimowe dane dotyczące korzystania z tego urządzenia, aby pomóc nam w ulepszaniu aplikacji.\n\nMożesz wyłączyć tę funkcję lub zresetować tożsamość urządzenia w Ustawieniach.</string>
 </resources>

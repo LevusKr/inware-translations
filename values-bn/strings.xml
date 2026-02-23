@@ -9,11 +9,16 @@
     <string name="generic_detected">সনাক্ত হয়েছে</string>
     <string name="generic_not_detected">সনাক্ত হয়নি</string>
     <string name="generic_allow">অনুমতি</string>
+    <string name="generic_deny">প্রত্যাখ্যান</string>
     <string name="generic_copied_to_clipboard">ক্লিপবোর্ডে কপি করা হয়েছে</string>
     <string name="generic_kb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> কিলোবাইট প্রতি সেকেন্ডে</string>
     <string name="generic_mb_per_second"><xliff:g example="36" id="speed">%s</xliff:g>মেগাবাইট প্রতি সেকেন্ডে</string>
     <string name="generic_gb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> গিগাবাইট প্রতি সেকেন্ডে</string>
     <string name="generic_tb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> টেরাবাইট প্রতি সেকেন্ডে</string>
+
+    <!-- Analytics consent -->
+    <string name="analytics_consent_title">Allow analytics?</string>
+    <string name="analytics_consent_message">With your permission, Inware can collect anonymous usage analytics from this device to help us improve the app.\n\nYou can turn this off or reset your device\'s identity in Settings.</string>
 
     <!-- Permissions -->
     <string name="permission_required_heading">অনুমতি প্রয়োজন</string>
@@ -308,7 +313,6 @@
 
     These strings may still be used in the future. Translations are kept just in case.
      -->
-    <string name="legacy_deny">প্রত্যাখ্যান</string>
     <string name="legacy_new_version_available">নতুন সংস্করণ ব্যবহারযোগ্য</string>
     <string name="legacy_new_version_dialog_message">আরও ভাল অভিজ্ঞতার জন্য সর্বশেষতম সংস্করণে আধুনিকায়ন করুন</string>
     <string name="legacy_update">আধুনিকায়ন করুন</string>
@@ -325,6 +329,4 @@
     <string name="legacy_augmented_reality">উন্নত বাস্তবতা প্রযুক্তি</string>
     <string name="legacy_permission_dialog_learn_more">Learn More</string>
     <string name="legacy_memory_storage_permission_explanation">The storage permission is required to be able to display storage-related details.</string>
-    <string name="legacy_analytics_dialog_title">Allow analytics?</string>
-    <string name="legacy_analytics_dialog_message">With your permission, Inware can collect anonymous usage analytics from this device to help us improve the app.\n\nYou can turn this off or reset your device\'s identity in Settings.</string>
 </resources>

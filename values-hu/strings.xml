@@ -9,11 +9,16 @@
     <string name="generic_detected">Észlelt</string>
     <string name="generic_not_detected">Nem Található</string>
     <string name="generic_allow">Engedélyez</string>
+    <string name="generic_deny">Megtagad</string>
     <string name="generic_copied_to_clipboard">Vágólapra másolva</string>
     <string name="generic_kb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> KB/s</string>
     <string name="generic_mb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> MB/s</string>
     <string name="generic_gb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> GB/s</string>
     <string name="generic_tb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> TB/s</string>
+
+    <!-- Analytics consent -->
+    <string name="analytics_consent_title">Engedélyezi az elemzéseket?</string>
+    <string name="analytics_consent_message">Az Ön engedélyével az Inware anonim használati elemzéseket gyűjthet erről az eszközről, hogy segítsen nekünk az alkalmazás fejlesztésében.\n\nEzt kikapcsolhatja vagy visszaállíthatja az eszköz identitását a Beállításokban.</string>
 
     <!-- Permissions -->
     <string name="permission_required_heading">Engedély szükséges</string>
@@ -308,7 +313,6 @@
 
     These strings may still be used in the future. Translations are kept just in case.
      -->
-    <string name="legacy_deny">Megtagad</string>
     <string name="legacy_new_version_available">Új verzió elérhető</string>
     <string name="legacy_new_version_dialog_message">Frissítsen a legújabb verzióra a jobb élmény érdekében</string>
     <string name="legacy_update">Frissítés</string>
@@ -325,6 +329,4 @@
     <string name="legacy_augmented_reality">Kibővített Valóság</string>
     <string name="legacy_permission_dialog_learn_more">Tudj meg többet</string>
     <string name="legacy_memory_storage_permission_explanation">Tárhely engedély szükséges a tárolással kapcsolatos részletek megjelenítéséhez.</string>
-    <string name="legacy_analytics_dialog_title">Engedélyezi az elemzéseket?</string>
-    <string name="legacy_analytics_dialog_message">Az Ön engedélyével az Inware anonim használati elemzéseket gyűjthet erről az eszközről, hogy segítsen nekünk az alkalmazás fejlesztésében.\n\nEzt kikapcsolhatja vagy visszaállíthatja az eszköz identitását a Beállításokban.</string>
 </resources>

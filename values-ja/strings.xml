@@ -9,11 +9,16 @@
     <string name="generic_detected">検出されました</string>
     <string name="generic_not_detected">検出されませんでした</string>
     <string name="generic_allow">許可</string>
+    <string name="generic_deny">拒否</string>
     <string name="generic_copied_to_clipboard">クリップボードにコピーしました</string>
     <string name="generic_kb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> KB/秒</string>
     <string name="generic_mb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> MB/秒</string>
     <string name="generic_gb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> GB/秒</string>
     <string name="generic_tb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> TB/秒</string>
+
+    <!-- Analytics consent -->
+    <string name="analytics_consent_title">アナリティクスを許可しますか?</string>
+    <string name="analytics_consent_message">許可すると、匿名化された利用状況の情報を収集して、アプリの改善に利用します。\n\n設定でこれをオフにするか、デバイスIDをリセットすることができます。</string>
 
     <!-- Permissions -->
     <string name="permission_required_heading">権限が必要です</string>
@@ -308,7 +313,6 @@
 
     These strings may still be used in the future. Translations are kept just in case.
      -->
-    <string name="legacy_deny">拒否</string>
     <string name="legacy_new_version_available">新しいバージョンが利用可能です</string>
     <string name="legacy_new_version_dialog_message">最新のバージョンにアップデートすると、より快適にご利用いただけます</string>
     <string name="legacy_update">アップデート</string>
@@ -325,6 +329,4 @@
     <string name="legacy_augmented_reality">拡張現実</string>
     <string name="legacy_permission_dialog_learn_more">詳細</string>
     <string name="legacy_memory_storage_permission_explanation">ストレージ情報を表示するには、ストレージへのアクセス権限が必要です。</string>
-    <string name="legacy_analytics_dialog_title">アナリティクスを許可しますか?</string>
-    <string name="legacy_analytics_dialog_message">許可すると、匿名化された利用状況の情報を収集して、アプリの改善に利用します。\n\n設定でこれをオフにするか、デバイスIDをリセットすることができます。</string>
 </resources>

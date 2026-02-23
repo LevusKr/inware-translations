@@ -9,11 +9,16 @@
     <string name="generic_detected">Detectado</string>
     <string name="generic_not_detected">No detectado</string>
     <string name="generic_allow">Permitir</string>
+    <string name="generic_deny">Denegar</string>
     <string name="generic_copied_to_clipboard">Copiado al portapapeles</string>
     <string name="generic_kb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> kB/s</string>
     <string name="generic_mb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> MB/s</string>
     <string name="generic_gb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> GB/s</string>
     <string name="generic_tb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> TB/s</string>
+
+    <!-- Analytics consent -->
+    <string name="analytics_consent_title">¿Permitir datos de análisis?</string>
+    <string name="analytics_consent_message">Previa aprobación tuya, Inware puede recolectar estadísticas anónimas de uso de este dispositivo para ayudarnos a mejorar la app.\n\nPuedes apagar esta opción o restablecer la identidad de tu dispositivo en Ajustes.</string>
 
     <!-- Permissions -->
     <string name="permission_required_heading">Permiso necesario</string>
@@ -308,7 +313,6 @@
 
     These strings may still be used in the future. Translations are kept just in case.
      -->
-    <string name="legacy_deny">Denegar</string>
     <string name="legacy_new_version_available">Nueva versión disponible</string>
     <string name="legacy_new_version_dialog_message">Actualiza a la versión más reciente para una mejor experiencia</string>
     <string name="legacy_update">Actualizar</string>
@@ -325,6 +329,4 @@
     <string name="legacy_augmented_reality">Realidad aumentada</string>
     <string name="legacy_permission_dialog_learn_more">Saber más</string>
     <string name="legacy_memory_storage_permission_explanation">Se requiere el permiso de almacenamiento para mostrar información relacionada a este.</string>
-    <string name="legacy_analytics_dialog_title">¿Permitir datos de análisis?</string>
-    <string name="legacy_analytics_dialog_message">Previa aprobación tuya, Inware puede recolectar estadísticas anónimas de uso de este dispositivo para ayudarnos a mejorar la app.\n\nPuedes apagar esta opción o restablecer la identidad de tu dispositivo en Ajustes.</string>
 </resources>

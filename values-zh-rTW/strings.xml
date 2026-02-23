@@ -9,11 +9,16 @@
     <string name="generic_detected">已檢測到</string>
     <string name="generic_not_detected">未檢測到</string>
     <string name="generic_allow">允許</string>
+    <string name="generic_deny">拒絕</string>
     <string name="generic_copied_to_clipboard">已複製到剪貼簿</string>
     <string name="generic_kb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> KB/秒</string>
     <string name="generic_mb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> MB/秒</string>
     <string name="generic_gb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> GB/秒</string>
     <string name="generic_tb_per_second"><xliff:g example="36" id="speed">%s</xliff:g> TB/秒</string>
+
+    <!-- Analytics consent -->
+    <string name="analytics_consent_title">允許我們分析您的裝置嗎？</string>
+    <string name="analytics_consent_message">若您允許，Inware 將從該裝置收集匿名使用分析，以幫助我們改進應用程式。\n\n您可以在設定中關閉或重設您的裝置身分。</string>
 
     <!-- Permissions -->
     <string name="permission_required_heading">需要授權</string>
@@ -308,7 +313,6 @@
 
     These strings may still be used in the future. Translations are kept just in case.
      -->
-    <string name="legacy_deny">拒絕</string>
     <string name="legacy_new_version_available">新版本可用</string>
     <string name="legacy_new_version_dialog_message">升級到最新版本以獲得更好的體驗</string>
     <string name="legacy_update">升級</string>
@@ -325,6 +329,4 @@
     <string name="legacy_augmented_reality">擴增實境</string>
     <string name="legacy_permission_dialog_learn_more">深入了解</string>
     <string name="legacy_memory_storage_permission_explanation">需要允許存取檔案和媒體才能顯示儲存空間的相關資訊。</string>
-    <string name="legacy_analytics_dialog_title">允許我們分析您的裝置嗎？</string>
-    <string name="legacy_analytics_dialog_message">若您允許，Inware 將從該裝置收集匿名使用分析，以幫助我們改進應用程式。\n\n您可以在設定中關閉或重設您的裝置身分。</string>
 </resources>

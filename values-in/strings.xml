@@ -9,11 +9,16 @@
     <string name="generic_detected">Terdeteksi</string>
     <string name="generic_not_detected">Tidak Terdeteksi</string>
     <string name="generic_allow">Ijinkan</string>
+    <string name="generic_deny">Tolak</string>
     <string name="generic_copied_to_clipboard">Salin ke clipboard</string>
     <string name="generic_kb_per_second"><xliff:g id="speed" example="36">%s</xliff:g> KB/detik</string>
     <string name="generic_mb_per_second"><xliff:g id="speed" example="36">%s</xliff:g> MB/detik</string>
     <string name="generic_gb_per_second"><xliff:g id="speed" example="36">%s</xliff:g> GB/detik</string>
     <string name="generic_tb_per_second"><xliff:g id="speed" example="36">%s</xliff:g> TB/detik</string>
+
+    <!-- Analytics consent -->
+    <string name="analytics_consent_title">Allow analytics?</string>
+    <string name="analytics_consent_message">With your permission, Inware can collect anonymous usage analytics from this device to help us improve the app.\n\nYou can turn this off or reset your device\'s identity in Settings.</string>
 
     <!-- Permissions -->
     <string name="permission_required_heading">Permission required</string>
@@ -308,7 +313,6 @@
 
     These strings may still be used in the future. Translations are kept just in case.
      -->
-    <string name="legacy_deny">Tolak</string>
     <string name="legacy_new_version_available">Versi baru tersedia</string>
     <string name="legacy_new_version_dialog_message">Perbarui ke versi terbaru untuk pengalaman yang lebih baik</string>
     <string name="legacy_update">Perbarui</string>
@@ -325,6 +329,4 @@
     <string name="legacy_augmented_reality">Augmented Reality</string>
     <string name="legacy_permission_dialog_learn_more">Learn More</string>
     <string name="legacy_memory_storage_permission_explanation">The storage permission is required to be able to display storage-related details.</string>
-    <string name="legacy_analytics_dialog_title">Allow analytics?</string>
-    <string name="legacy_analytics_dialog_message">With your permission, Inware can collect anonymous usage analytics from this device to help us improve the app.\n\nYou can turn this off or reset your device\'s identity in Settings.</string>
 </resources>
