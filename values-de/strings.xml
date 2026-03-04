@@ -33,6 +33,13 @@
     <string name="dashboard_tiles_empty">No dashboard tiles available yet.</string>
     <string name="dashboard_empty_hint">Add your first tile to customize your dashboard</string>
 
+    <!-- Dashboard tiles -->
+    <string name="system_android_version_tile_title">Android</string>
+    <string name="device_model_tile_title">Device model</string>
+    <string name="hardware_cpu_tile_title">CPU Usage</string>
+    <string name="memory_ram_tile_title">Memory Usage</string>
+    <string name="memory_storage_tile_title">Interner Speicher</string>
+
     <!-- Explore Hub page -->
     <string name="system_page">System</string>
     <string name="system_page_description">Android version, build info</string>
@@ -89,7 +96,6 @@
     <string name="device_brand_headline">Marke</string>
     <string name="device_manufacturer_headline">Hersteller</string>
     <string name="device_model_headline">Modell</string>
-    <string name="device_model_tile_title">Device model</string>
     <string name="device_product_name_headline">Produkt</string>
     <string name="device_sku_headline">SKU</string>
     <string name="device_display_id_category">Display #<xliff:g example="1" id="id">%d</xliff:g></string>
@@ -142,14 +148,12 @@
     <string name="memory_ram_available_headline">Available</string>
     <string name="memory_ram_used_headline">Genutzt</string>
     <string name="memory_ram_usage_headline">Auslastung</string>
-    <string name="memory_ram_tile_title">Memory Usage</string>
     <string name="memory_storage_category">Interner Speicher</string>
     <string name="memory_storage_hardware_headline">Hardware</string>
     <string name="memory_storage_total_headline">Total</string>
     <string name="memory_storage_available_headline">Available</string>
     <string name="memory_storage_used_headline">Genutzt</string>
     <string name="memory_storage_usage_headline">Auslastung</string>
-    <string name="memory_storage_tile_title">Interner Speicher</string>
 
     <!-- Camera page -->
     <string name="camera_accuracy_note">Note: Some devices may report inaccurate camera specifications. [Learn more](<xliff:g id="link" example="https://example.com">%s</xliff:g>)</string>

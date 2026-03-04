@@ -33,6 +33,13 @@
     <string name="dashboard_tiles_empty">No dashboard tiles available yet.</string>
     <string name="dashboard_empty_hint">Add your first tile to customize your dashboard</string>
 
+    <!-- Dashboard tiles -->
+    <string name="system_android_version_tile_title">Android</string>
+    <string name="device_model_tile_title">Device model</string>
+    <string name="hardware_cpu_tile_title">CPU Usage</string>
+    <string name="memory_ram_tile_title">Memory Usage</string>
+    <string name="memory_storage_tile_title">内部ストレージ</string>
+
     <!-- Explore Hub page -->
     <string name="system_page">システム</string>
     <string name="system_page_description">Android version, build info</string>
@@ -89,7 +96,6 @@
     <string name="device_brand_headline">ブランド</string>
     <string name="device_manufacturer_headline">メーカー</string>
     <string name="device_model_headline">モデル</string>
-    <string name="device_model_tile_title">Device model</string>
     <string name="device_product_name_headline">製品</string>
     <string name="device_sku_headline">SKU</string>
     <string name="device_display_id_category">ディスプレイ #<xliff:g example="1" id="id">%d</xliff:g></string>
@@ -142,14 +148,12 @@
     <string name="memory_ram_available_headline">利用可能</string>
     <string name="memory_ram_used_headline">使用済み</string>
     <string name="memory_ram_usage_headline">使用量</string>
-    <string name="memory_ram_tile_title">Memory Usage</string>
     <string name="memory_storage_category">内部ストレージ</string>
     <string name="memory_storage_hardware_headline">ハードウェア</string>
     <string name="memory_storage_total_headline">合計</string>
     <string name="memory_storage_available_headline">利用可能</string>
     <string name="memory_storage_used_headline">使用済み</string>
     <string name="memory_storage_usage_headline">使用量</string>
-    <string name="memory_storage_tile_title">内部ストレージ</string>
 
     <!-- Camera page -->
     <string name="camera_accuracy_note">注: 一部のデバイスでは、カメラの仕様が正しく表示されない場合があります。 [詳細](<xliff:g id="link" example="https://example.com">%s</xliff:g>)</string>

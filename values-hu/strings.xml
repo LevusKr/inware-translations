@@ -33,6 +33,13 @@
     <string name="dashboard_tiles_empty">No dashboard tiles available yet.</string>
     <string name="dashboard_empty_hint">Add your first tile to customize your dashboard</string>
 
+    <!-- Dashboard tiles -->
+    <string name="system_android_version_tile_title">Android</string>
+    <string name="device_model_tile_title">Device model</string>
+    <string name="hardware_cpu_tile_title">CPU Usage</string>
+    <string name="memory_ram_tile_title">Memory Usage</string>
+    <string name="memory_storage_tile_title">Belső Tárhely</string>
+
     <!-- Explore Hub page -->
     <string name="system_page">Rendszer</string>
     <string name="system_page_description">Android version, build info</string>
@@ -89,7 +96,6 @@
     <string name="device_brand_headline">Márka</string>
     <string name="device_manufacturer_headline">Gyártó</string>
     <string name="device_model_headline">Modell</string>
-    <string name="device_model_tile_title">Device model</string>
     <string name="device_product_name_headline">Termék</string>
     <string name="device_sku_headline">SKU</string>
     <string name="device_display_id_category">Kijelző #<xliff:g example="1" id="id">%d</xliff:g></string>
@@ -142,14 +148,12 @@
     <string name="memory_ram_available_headline">Elérhető</string>
     <string name="memory_ram_used_headline">Használt</string>
     <string name="memory_ram_usage_headline">Használat</string>
-    <string name="memory_ram_tile_title">Memory Usage</string>
     <string name="memory_storage_category">Belső Tárhely</string>
     <string name="memory_storage_hardware_headline">Hardver</string>
     <string name="memory_storage_total_headline">Teljes</string>
     <string name="memory_storage_available_headline">Elérhető</string>
     <string name="memory_storage_used_headline">Használt</string>
     <string name="memory_storage_usage_headline">Használat</string>
-    <string name="memory_storage_tile_title">Belső Tárhely</string>
 
     <!-- Camera page -->
     <string name="camera_accuracy_note">Megjegyzés: Egyes eszközök pontatlan kameraspecifikációkat jelenthetnek. [Tudj meg többet](<xliff:g id="link" example="https://example.com">%s</xliff:g>)</string>

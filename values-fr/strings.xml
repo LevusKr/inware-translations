@@ -33,6 +33,13 @@
     <string name="dashboard_tiles_empty">Aucun élément disponible pour le moment.</string>
     <string name="dashboard_empty_hint">Ajoutez votre premier élément pour personnaliser votre dashboard</string>
 
+    <!-- Dashboard tiles -->
+    <string name="system_android_version_tile_title">Android</string>
+    <string name="device_model_tile_title">Modèle de l\'appareil</string>
+    <string name="hardware_cpu_tile_title">CPU Usage</string>
+    <string name="memory_ram_tile_title">Mémoire vive</string>
+    <string name="memory_storage_tile_title">Stockage interne</string>
+
     <!-- Explore Hub page -->
     <string name="system_page">Système</string>
     <string name="system_page_description">Version d\'Android, informations de build</string>
@@ -89,7 +96,6 @@
     <string name="device_brand_headline">Marque</string>
     <string name="device_manufacturer_headline">Fabriquant</string>
     <string name="device_model_headline">Modèle</string>
-    <string name="device_model_tile_title">Modèle de l\'appareil</string>
     <string name="device_product_name_headline">Produit</string>
     <string name="device_sku_headline">SKU</string>
     <string name="device_display_id_category">Affichage #<xliff:g example="1" id="id">%d</xliff:g></string>
@@ -142,14 +148,12 @@
     <string name="memory_ram_available_headline">Disponible</string>
     <string name="memory_ram_used_headline">Utilisé</string>
     <string name="memory_ram_usage_headline">Utilisation</string>
-    <string name="memory_ram_tile_title">Mémoire vive</string>
     <string name="memory_storage_category">Stockage interne</string>
     <string name="memory_storage_hardware_headline">Matériel</string>
     <string name="memory_storage_total_headline">Total</string>
     <string name="memory_storage_available_headline">Disponible</string>
     <string name="memory_storage_used_headline">Utilisé</string>
     <string name="memory_storage_usage_headline">Utilisation</string>
-    <string name="memory_storage_tile_title">Stockage interne</string>
 
     <!-- Camera page -->
     <string name="camera_accuracy_note">Attention : certains appareils peuvent signaler des spécifications de caméra inexactes. [En savoir plus](<xliff:g id="link" example="https://example.com">%s</xliff:g>)</string>

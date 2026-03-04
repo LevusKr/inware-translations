@@ -33,6 +33,13 @@
     <string name="dashboard_tiles_empty">暂无可用的仪表板卡片。</string>
     <string name="dashboard_empty_hint">添加第一张卡片以自定义仪表板</string>
 
+    <!-- Dashboard tiles -->
+    <string name="system_android_version_tile_title">Android</string>
+    <string name="device_model_tile_title">设备型号</string>
+    <string name="hardware_cpu_tile_title">CPU Usage</string>
+    <string name="memory_ram_tile_title">内存使用情况</string>
+    <string name="memory_storage_tile_title">内部存储</string>
+
     <!-- Explore Hub page -->
     <string name="system_page">系统</string>
     <string name="system_page_description">Android version, build info</string>
@@ -89,7 +96,6 @@
     <string name="device_brand_headline">品牌</string>
     <string name="device_manufacturer_headline">制造商</string>
     <string name="device_model_headline">型号</string>
-    <string name="device_model_tile_title">设备型号</string>
     <string name="device_product_name_headline">产品代号</string>
     <string name="device_sku_headline">SKU</string>
     <string name="device_display_id_category">显示屏 <xliff:g example="1" id="id">%d</xliff:g></string>
@@ -142,14 +148,12 @@
     <string name="memory_ram_available_headline">可用模块</string>
     <string name="memory_ram_used_headline">已用</string>
     <string name="memory_ram_usage_headline">用量</string>
-    <string name="memory_ram_tile_title">内存使用情况</string>
     <string name="memory_storage_category">内部存储</string>
     <string name="memory_storage_hardware_headline">硬件</string>
     <string name="memory_storage_total_headline">总计</string>
     <string name="memory_storage_available_headline">可用模块</string>
     <string name="memory_storage_used_headline">已用</string>
     <string name="memory_storage_usage_headline">用量</string>
-    <string name="memory_storage_tile_title">内部存储</string>
 
     <!-- Camera page -->
     <string name="camera_accuracy_note">注意：部分设备可能会报告不准确的相机参数。[了解更多](<xliff:g id="link" example="https://example.com">%s</xliff:g>)</string>
