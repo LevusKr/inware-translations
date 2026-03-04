@@ -36,7 +36,7 @@
     <!-- Dashboard tiles -->
     <string name="system_android_version_tile_title">Android</string>
     <string name="device_model_tile_title">Modèle de l\'appareil</string>
-    <string name="hardware_cpu_tile_title">CPU Usage</string>
+    <string name="hardware_cpu_tile_title">Utilisation CPU</string>
     <string name="memory_ram_tile_title">Mémoire vive</string>
     <string name="memory_storage_tile_title">Stockage interne</string>
 
