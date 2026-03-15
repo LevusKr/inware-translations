@@ -8,6 +8,8 @@
     <string name="generic_not_supported">Tidak sokong</string>
     <string name="generic_detected">Dikesan</string>
     <string name="generic_not_detected">Tidak Dikesan</string>
+    <string name="generic_yes">Yes</string>
+    <string name="generic_no">No</string>
     <string name="generic_allow">Benarkan</string>
     <string name="generic_deny">Jangan Benarkan</string>
     <string name="generic_copied_to_clipboard">Disalin ke papan keratan</string>
@@ -51,6 +53,8 @@
     <string name="memory_page_description">RAM and storage usage</string>
     <string name="camera_page">Kamera</string>
     <string name="camera_page_description">Lenses, megapixels and stabilization</string>
+    <string name="sensors_page">Sensors</string>
+    <string name="sensors_page_description">Accelerometer, light, proximity and more</string>
     <string name="network_page">Rangkaian</string>
     <string name="network_page_description">Connection status, signal and speed</string>
     <string name="connectivity_page">Sambungan</string>
@@ -167,6 +171,27 @@
     <string name="camera_eis_headline">Penstabilan Imej Elektronik (EIS)</string>
     <string name="camera_flash_headline">Lampu Suluh</string>
 
+    <!-- Sensors page -->
+    <string name="sensor_accelerometer_headline">Accelerometer</string>
+    <string name="sensor_gyroscope_headline">Gyroscope</string>
+    <string name="sensor_magnetic_field_headline">Magnetic field</string>
+    <string name="sensor_pressure_headline">Barometer</string>
+    <string name="sensor_proximity_headline">Proximity</string>
+    <string name="sensor_light_headline">Ambient light</string>
+    <string name="sensor_ambient_temperature_headline">Ambient temperature</string>
+    <string name="sensor_relative_humidity_headline">Relative humidity</string>
+    <string name="sensor_gravity_headline">Gravity</string>
+    <string name="sensor_linear_acceleration_headline">Linear acceleration</string>
+    <string name="sensor_step_counter_headline">Step counter</string>
+    <string name="sensor_readings_headline">Readings</string>
+    <string name="sensor_vendor_headline">Vendor</string>
+    <string name="sensor_type_headline">Type</string>
+    <string name="sensor_max_range_headline">Max range</string>
+    <string name="sensor_resolution_headline">Resolution</string>
+    <string name="sensor_power_headline">Power</string>
+    <string name="sensor_power_value">%s mA</string>
+    <string name="sensor_version_headline">Version</string>
+
     <!-- Network page -->
     <string name="network_wifi_category">Wi-Fi</string>
     <string name="network_type_headline">Jenis Rangkaian</string>
@@ -206,6 +231,7 @@
     <string name="connectivity_bluetooth_status_turning_on">Menghidupkan</string>
     <string name="connectivity_bluetooth_status_turning_off">Mematikan</string>
     <string name="connectivity_bluetooth_permission_explainer">Kebenaran \"Peranti Berdekatan\" diperlukan untuk dapat memaparkan beberapa butiran bluetooth.</string>
+    <string name="connectivity_features_category">Features</string>
 
     <!-- Battery page -->
     <string name="battery_health_headline">Kesihatan</string>
@@ -216,6 +242,14 @@
     <string name="battery_power_headline">Kuasa</string>
     <string name="battery_voltage_headline">Voltan</string>
     <string name="battery_temperature_headline">Suhu</string>
+    <string name="battery_thermal_throttling_headline">Thermal throttling</string>
+    <string name="battery_thermal_throttling_none">None</string>
+    <string name="battery_thermal_throttling_light">Light</string>
+    <string name="battery_thermal_throttling_moderate">Moderate</string>
+    <string name="battery_thermal_throttling_severe">Severe</string>
+    <string name="battery_thermal_throttling_critical">Critical</string>
+    <string name="battery_thermal_throttling_emergency">Emergency</string>
+    <string name="battery_thermal_throttling_shutdown">Shutdown</string>
     <string name="battery_technology_headline">Teknologi</string>
     <string name="battery_cycle_count_headline">Cycle count</string>
     <string name="battery_current_display_value"><xliff:g id="current" example="304">%1$d</xliff:g> mA</string>
