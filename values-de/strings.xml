@@ -8,8 +8,8 @@
     <string name="generic_not_supported">Nicht unterstützt</string>
     <string name="generic_detected">Vorhanden</string>
     <string name="generic_not_detected">Nicht vorhanden</string>
-    <string name="generic_yes">Yes</string>
-    <string name="generic_no">No</string>
+    <string name="generic_yes">Ja</string>
+    <string name="generic_no">Nein</string>
     <string name="generic_allow">Akzeptieren</string>
     <string name="generic_deny">Ablehnen</string>
     <string name="generic_copied_to_clipboard">In Zwischenablage kopiert</string>
@@ -27,48 +27,48 @@
     <string name="generic_pb_per_second"><xliff:g id="speed" example="36">%s</xliff:g> PB/s</string>
 
     <!-- Analytics consent -->
-    <string name="analytics_consent_title">Allow analytics?</string>
-    <string name="analytics_consent_message">With your permission, Inware can collect anonymous usage analytics from this device to help us improve the app.\n\nYou can turn this off or reset your device\'s identity in Settings.</string>
+    <string name="analytics_consent_title">Analytics erlauben?</string>
+    <string name="analytics_consent_message">Mit deiner Erlaubnis sammelt Inware anonyme Nutzungsdaten dieses Geräts, um uns bei der Verbesserung der App zu helfen.\n\nKann jederzeit deaktiviert oder in den Einstellungen zurückgesetzt werden.</string>
 
     <!-- Permissions -->
-    <string name="permission_required_heading">Berechtigung benötigt</string>
-    <string name="permission_open_settings_label">Enable in settings</string>
+    <string name="permission_required_heading">Berechtigung erforderlich</string>
+    <string name="permission_open_settings_label">In den Einstellungen aktivieren</string>
 
     <!-- Top level page titles -->
     <string name="dashboard_page">Dashboard</string>
-    <string name="explore_page">Explore</string>
+    <string name="explore_page">Entdecken</string>
     <string name="settings_page">Einstellungen</string>
 
     <!-- Dashboard Hub page -->
-    <string name="dashboard_tiles_empty">No dashboard tiles available yet.</string>
-    <string name="dashboard_empty_hint">Add your first tile to customize your dashboard</string>
+    <string name="dashboard_tiles_empty">Bisher keine Dashboard-Kacheln vefügbar.</string>
+    <string name="dashboard_empty_hint">Füge deine erste Dashboard-Kachel hinzu</string>
 
     <!-- Dashboard tiles -->
     <string name="system_android_version_tile_title">Android</string>
-    <string name="device_model_tile_title">Device model</string>
-    <string name="hardware_cpu_tile_title">CPU Usage</string>
-    <string name="memory_ram_tile_title">Memory Usage</string>
-    <string name="memory_storage_tile_title">Interner Speicher</string>
+    <string name="device_model_tile_title">Gerätemodell</string>
+    <string name="hardware_cpu_tile_title">CPU-Auslastung</string>
+    <string name="memory_ram_tile_title">RAM-Auslastung</string>
+    <string name="memory_storage_tile_title">Gerätespeicher</string>
 
     <!-- Explore Hub page -->
     <string name="system_page">System</string>
-    <string name="system_page_description">Android version, build info</string>
+    <string name="system_page_description">Android-Version, Build-Info</string>
     <string name="device_page">Gerät</string>
-    <string name="device_page_description">Brand, model, display and features</string>
+    <string name="device_page_description">Marke, Modell, Bildschirm und Funktionen</string>
     <string name="hardware_page">Hardware</string>
-    <string name="hardware_page_description">CPU, GPU usage and frequencies</string>
+    <string name="hardware_page_description">CPU, GPU Auslastung und Frequenzen</string>
     <string name="memory_page">Speicher</string>
-    <string name="memory_page_description">RAM and storage usage</string>
+    <string name="memory_page_description">RAM- und Speicherverbrauch</string>
     <string name="camera_page">Kamera</string>
-    <string name="camera_page_description">Lenses, megapixels and stabilization</string>
-    <string name="sensors_page">Sensors</string>
-    <string name="sensors_page_description">Accelerometer, light, proximity and more</string>
+    <string name="camera_page_description">Linsen, Megapixel und Stabilisierung</string>
+    <string name="sensors_page">Sensoren</string>
+    <string name="sensors_page_description">G-Sensor, Licht, Annäherung und mehr</string>
     <string name="connectivity_page">Verbindungen</string>
-    <string name="connectivity_page_description">Bluetooth and paired devices</string>
+    <string name="connectivity_page_description">Bluetooth und gekoppelte Geräte</string>
     <string name="battery_page">Akku</string>
-    <string name="battery_page_description">Health, level, temperature and cycles</string>
-    <string name="media_drm_page">Media DRM</string>
-    <string name="media_drm_page_description">Vendor, version and security level</string>
+    <string name="battery_page_description">Zustand, Level, Temperatur und Zyklen</string>
+    <string name="media_drm_page">Medien-DRM</string>
+    <string name="media_drm_page_description">Anbieter, Version und Sicherheitsstufe</string>
 
     <!-- System page -->
     <string name="system_android_category">Android</string>
@@ -76,10 +76,10 @@
     <string name="system_status_category">Status</string>
     <string name="system_android_version_headline">Android-Version</string>
     <string name="system_released_with_headline">Veröffentlicht mit</string>
-    <string name="system_min_target_sdk_headline">Minimum target SDK</string>
-    <string name="system_performance_class_headline">Performance class</string>
-    <string name="system_performance_class_supported">Class <xliff:g example="12" id="class_rating">%s</xliff:g></string>
-    <string name="system_performance_class_none">No class</string>
+    <string name="system_min_target_sdk_headline">Minimum Ziel-SDK</string>
+    <string name="system_performance_class_headline">Leistungsklasse</string>
+    <string name="system_performance_class_supported">Klasse <xliff:g example="12" id="class_rating">%s</xliff:g></string>
+    <string name="system_performance_class_none">Keine Klasse</string>
     <string name="system_mainline_version_headline">Google Play-Systemupdate</string>
     <string name="system_language_headline">Sprache</string>
     <string name="system_security_patch_headline">Sicherheitspatch</string>
@@ -87,7 +87,7 @@
     <string name="system_board_headline">Board</string>
     <string name="system_hardware_headline">Hardware</string>
     <string name="system_kernel_version_headline">Kernel-Version</string>
-    <string name="system_baseband_version_headline">Baseband-Version</string>
+    <string name="system_baseband_version_headline">Basisband-Version</string>
     <string name="system_build_tags_headline">Tags</string>
     <string name="system_build_fingerprint_headline">Fingerabdruck</string>
     <string name="system_build_type_headline">Build-Typ</string>
@@ -95,15 +95,15 @@
     <string name="system_up_time_headline">Betriebszeit</string>
     <string name="system_usb_debugging_headline">USB-Debugging</string>
     <string name="system_selinux_headline">SELinux</string>
-    <string name="system_selinux_enforcing">Enforcing</string>
-    <string name="system_selinux_permissive">Permissive</string>
+    <string name="system_selinux_enforcing">Erzwungen</string>
+    <string name="system_selinux_permissive">Erlaubt</string>
     <string name="system_extra_category">Extra</string>
     <string name="system_treble_headline">Treble</string>
     <string name="system_seamless_updates_headline">Nahtlose Updates</string>
     <string name="system_active_slot_headline">Aktiver Slot</string>
     <string name="system_root_headline">Root</string>
     <string name="system_root_version_headline">Root-Version</string>
-    <string name="system_page_size_headline">Page size</string>
+    <string name="system_page_size_headline">Seitengröße</string>
     <string name="system_emulator_headline">Emulator</string>
 
     <!-- Device page -->
@@ -119,18 +119,18 @@
     <string name="device_display_aspect_ratio_headline">Seitenverhältnis</string>
     <string name="device_display_refresh_rate_headline">Bildwiederholrate</string>
     <string name="device_display_pixel_density_headline">Dichte</string>
-    <string name="device_display_current_density_headline">Current density</string>
-    <string name="device_display_default_density_headline">Default density</string>
+    <string name="device_display_current_density_headline">Aktuelle Dichte</string>
+    <string name="device_display_default_density_headline">Standard-Dichte</string>
     <string name="device_display_default_orientation_headline">Standard-Orientierung</string>
     <string name="device_display_default_orientation_portrait">Hochkant</string>
     <string name="device_display_default_orientation_landscape">Quer</string>
     <string name="device_display_supports_hdr_headline">HDR</string>
-    <string name="device_display_adaptive_refresh_rate_headline">Adaptive refresh rate</string>
-    <string name="device_security_category">Security chip</string>
-    <string name="device_security_chip_manufacturer_headline">Manufacturer</string>
-    <string name="device_security_chip_model_headline">Model</string>
-    <string name="device_display_hdr_supported_with_ratio">Supported (<xliff:g id="ratio" example="2.5x">%s</xliff:g>)</string>
-    <string name="device_display_supported_refresh_rates_headline">Supported refresh rates (Hz)</string>
+    <string name="device_display_adaptive_refresh_rate_headline">Adaptive Bildwiederholrate</string>
+    <string name="device_security_category">Sicherheitschip</string>
+    <string name="device_security_chip_manufacturer_headline">Hersteller</string>
+    <string name="device_security_chip_model_headline">Modell</string>
+    <string name="device_display_hdr_supported_with_ratio">Unterstützt (<xliff:g id="ratio" example="2.5x">%s</xliff:g>)</string>
+    <string name="device_display_supported_refresh_rates_headline">Unterstützte Bildwiederholraten (Hz)</string>
     <string name="device_features_category">Eigenschaften</string>
     <string name="device_fingerprint_authentication_headline">Fingerabdruck-Authentifizierung</string>
     <string name="device_face_authentication_headline">Gesichts-Authentifizierung</string>
@@ -140,7 +140,7 @@
     <!-- Hardware page -->
     <string name="hardware_cpu_category">CPU</string>
     <string name="hardware_cpu_hardware_headline">Hardware</string>
-    <string name="hardware_supported_abis_headline">Unterstützte ABIS</string>
+    <string name="hardware_supported_abis_headline">Unterstützte ABIs</string>
     <string name="hardware_cores_headline">Kerne</string>
     <string name="hardware_clusters_headline">Cluster</string>
     <string name="hardware_cpu_usage_headline">Auslastung</string>
@@ -164,22 +164,22 @@
     <string name="hardware_gpu_usage_headline">Auslastung</string>
 
     <!-- Memory page -->
-    <string name="memory_ram_category">Gerätespeicher (RAM)</string>
+    <string name="memory_ram_category">Arbeitsspeicher (RAM)</string>
     <string name="memory_ram_hardware_headline">Hardware</string>
-    <string name="memory_ram_total_headline">Total</string>
-    <string name="memory_ram_available_headline">Available</string>
-    <string name="memory_ram_used_headline">Genutzt</string>
+    <string name="memory_ram_total_headline">Insgesamt</string>
+    <string name="memory_ram_available_headline">Verfügbar</string>
+    <string name="memory_ram_used_headline">Verwendet</string>
     <string name="memory_ram_usage_headline">Auslastung</string>
-    <string name="memory_ram_low_ram_headline">Low RAM</string>
+    <string name="memory_ram_low_ram_headline">Niedriger RAM</string>
     <string name="memory_storage_category">Interner Speicher</string>
     <string name="memory_storage_hardware_headline">Hardware</string>
-    <string name="memory_storage_total_headline">Total</string>
-    <string name="memory_storage_available_headline">Available</string>
-    <string name="memory_storage_used_headline">Genutzt</string>
+    <string name="memory_storage_total_headline">Insgesamt</string>
+    <string name="memory_storage_available_headline">Verfügbar</string>
+    <string name="memory_storage_used_headline">Verwendet</string>
     <string name="memory_storage_usage_headline">Auslastung</string>
 
     <!-- Camera page -->
-    <string name="camera_accuracy_note">Note: Some devices may report inaccurate camera specifications. [Learn more](<xliff:g id="link" example="https://example.com">%s</xliff:g>)</string>
+    <string name="camera_accuracy_note">Achtung: Einige Geräte geben möglicherweise ungenaue Spezifikationen zurück. [Mehr erfahren](<xliff:g id="link" example="https://example.com">%s</xliff:g>)</string>
     <string name="camera_lens_front">Vordere Kamera</string>
     <string name="camera_lens_back">Hintere Kamera</string>
     <string name="camera_lens_external">Externe Kamera</string>
@@ -191,30 +191,30 @@
     <string name="camera_flash_headline">Blitzlicht</string>
 
     <!-- Sensors page -->
-    <string name="sensor_accelerometer_headline">Accelerometer</string>
-    <string name="sensor_gyroscope_headline">Gyroscope</string>
-    <string name="sensor_magnetic_field_headline">Magnetic field</string>
+    <string name="sensor_accelerometer_headline">Beschleunigung</string>
+    <string name="sensor_gyroscope_headline">Gyroskop</string>
+    <string name="sensor_magnetic_field_headline">Magnetfeld</string>
     <string name="sensor_pressure_headline">Barometer</string>
-    <string name="sensor_proximity_headline">Proximity</string>
-    <string name="sensor_light_headline">Ambient light</string>
-    <string name="sensor_ambient_temperature_headline">Ambient temperature</string>
-    <string name="sensor_relative_humidity_headline">Relative humidity</string>
-    <string name="sensor_gravity_headline">Gravity</string>
-    <string name="sensor_linear_acceleration_headline">Linear acceleration</string>
-    <string name="sensor_step_counter_headline">Step counter</string>
+    <string name="sensor_proximity_headline">Annäherung</string>
+    <string name="sensor_light_headline">Umgebungslicht</string>
+    <string name="sensor_ambient_temperature_headline">Umgebungstemperatur</string>
+    <string name="sensor_relative_humidity_headline">Relative Luftfeuchtigkeit</string>
+    <string name="sensor_gravity_headline">Gravitation</string>
+    <string name="sensor_linear_acceleration_headline">Lineare Beschleunigung</string>
+    <string name="sensor_step_counter_headline">Schrittzähler</string>
     <string name="sensor_readings_headline">Readings</string>
-    <string name="sensor_vendor_headline">Vendor</string>
-    <string name="sensor_type_headline">Type</string>
-    <string name="sensor_max_range_headline">Max range</string>
-    <string name="sensor_resolution_headline">Resolution</string>
-    <string name="sensor_power_headline">Power</string>
+    <string name="sensor_vendor_headline">Anbieter</string>
+    <string name="sensor_type_headline">Typ</string>
+    <string name="sensor_max_range_headline">Max. Reichweite</string>
+    <string name="sensor_resolution_headline">Auflösung</string>
+    <string name="sensor_power_headline">Leistung</string>
     <string name="sensor_power_value">%s mA</string>
     <string name="sensor_version_headline">Version</string>
 
     <!-- Connectivity page -->
     <string name="connectivity_network_category">Netzwerk</string>
     <string name="connectivity_type_headline">Netzwerktyp</string>
-    <string name="connectivity_type_cellular">Cellular</string>
+    <string name="connectivity_type_cellular">Mobilfunk</string>
     <string name="connectivity_download_speed_headline">Download-Geschwindigkeit</string>
     <string name="connectivity_upload_speed_headline">Upload-Geschwindigkeit</string>
     <string name="connectivity_wifi_category">WLAN</string>
@@ -233,9 +233,9 @@
     <string name="connectivity_gateway_headline">Gateway</string>
     <string name="connectivity_subnet_mask_headline">Subnetz-Maske</string>
     <string name="connectivity_dns_headline">DNS</string>
-    <string name="connectivity_dhcp_lease_time_headline">DHCP Lease Time</string>
+    <string name="connectivity_dhcp_lease_time_headline">DHCP Gültigkeitsdauer</string>
     <string name="connectivity_lease_time_more_than_a_week">Länger als eine Woche: <xliff:g id="seconds">%d</xliff:g> Sekunden</string>
-    <string name="connectivity_location_permission_explainer">Without the precise location permission, the current Wi‑Fi SSID cannot be displayed.</string>
+    <string name="connectivity_location_permission_explainer">Ohne Berechtigung für genauen Standort kann die aktuelle WLAN-SSID nicht angezeigt werden.</string>
     <string name="connectivity_bluetooth_category">Bluetooth</string>
     <string name="connectivity_bluetooth_name_headline">Name</string>
     <string name="connectivity_bluetooth_status_headline">Status</string>
@@ -248,13 +248,13 @@
     <string name="connectivity_bluetooth_status_disabled">Deaktiviert</string>
     <string name="connectivity_bluetooth_status_turning_on">Wird aktiviert</string>
     <string name="connectivity_bluetooth_status_turning_off">Wird deaktiviert</string>
-    <string name="connectivity_bluetooth_permission_explainer">Without the Nearby devices permission, the app cannot display Bluetooth details.</string>
-    <string name="connectivity_features_category">Features</string>
-    <string name="connectivity_thread_network_headline">Thread network</string>
-    <string name="connectivity_ble_channel_sounding_headline">Bluetooth channel sounding</string>
+    <string name="connectivity_bluetooth_permission_explainer">Ohne Berechtigung für Geräte in der Nähe kann die App keine Details anzeigen.</string>
+    <string name="connectivity_features_category">Funktionen</string>
+    <string name="connectivity_thread_network_headline">Thread-Netzwerk</string>
+    <string name="connectivity_ble_channel_sounding_headline">Bluetooth Channel Sounding</string>
 
     <!-- Battery page -->
-    <string name="battery_health_headline">Gesundheit</string>
+    <string name="battery_health_headline">Zustand</string>
     <string name="battery_status_headline">Status</string>
     <string name="battery_level_headline">Level</string>
     <string name="battery_source_headline">Quelle</string>
@@ -262,19 +262,19 @@
     <string name="battery_power_headline">Ladeleistung</string>
     <string name="battery_voltage_headline">Spannung</string>
     <string name="battery_temperature_headline">Temperatur</string>
-    <string name="battery_thermal_throttling_headline">Thermal throttling</string>
-    <string name="battery_thermal_throttling_none">None</string>
-    <string name="battery_thermal_throttling_light">Light</string>
-    <string name="battery_thermal_throttling_moderate">Moderate</string>
-    <string name="battery_thermal_throttling_severe">Severe</string>
-    <string name="battery_thermal_throttling_critical">Critical</string>
-    <string name="battery_thermal_throttling_emergency">Emergency</string>
-    <string name="battery_thermal_throttling_shutdown">Shutdown</string>
+    <string name="battery_thermal_throttling_headline">Thermische Drosselung</string>
+    <string name="battery_thermal_throttling_none">Keine</string>
+    <string name="battery_thermal_throttling_light">Leicht</string>
+    <string name="battery_thermal_throttling_moderate">Mäßig</string>
+    <string name="battery_thermal_throttling_severe">Stark</string>
+    <string name="battery_thermal_throttling_critical">Kritisch</string>
+    <string name="battery_thermal_throttling_emergency">Notfall</string>
+    <string name="battery_thermal_throttling_shutdown">Abschaltung</string>
     <string name="battery_technology_headline">Technologie</string>
-    <string name="battery_cycle_count_headline">Cycle count</string>
+    <string name="battery_cycle_count_headline">Ladezyklen</string>
     <string name="battery_current_display_value"><xliff:g id="current" example="304">%1$d</xliff:g> mA</string>
-    <string name="battery_voltage_display_value"><xliff:g id="voltage" example="4.384">%1$.3f</xliff:g> V</string>
-    <string name="battery_power_display_value"><xliff:g id="power" example="18">%1$.2f</xliff:g> W</string>
+    <string name="battery_voltage_display_value"><xliff:g id="voltage" example="4.384">%1$,3f</xliff:g> V</string>
+    <string name="battery_power_display_value"><xliff:g id="power" example="18">%1$,2f</xliff:g> W</string>
     <string name="battery_power_not_charging">Lädt nicht auf</string>
     <string name="battery_status_not_charging">Lädt nicht auf</string>
     <string name="battery_status_charging">Lädt auf</string>
@@ -292,18 +292,18 @@
 
     <!-- Media DRM page -->
     <string name="media_drm_algorithms_headline">Algorithmen</string>
-    <string name="media_drm_device_unique_id_headline">Device Unique ID</string>
-    <string name="media_drm_vendor_headline">Hersteller</string>
+    <string name="media_drm_device_unique_id_headline">Eindeutige Geräte-ID</string>
+    <string name="media_drm_vendor_headline">Anbieter</string>
     <string name="media_drm_version_headline">Version</string>
     <string name="media_drm_security_level_headline">Sicherheitslevel</string>
 
     <!-- Settings Hub page -->
-    <string name="settings_general_entry_headline">General</string>
-    <string name="settings_general_entry_description">Security, clipboard and units</string>
-    <string name="settings_appearance_entry_headline">Appearance</string>
-    <string name="settings_appearance_entry_description">Dark mode and colors</string>
-    <string name="settings_advanced_entry_headline">Advanced</string>
-    <string name="settings_advanced_entry_description">Optional modules, analytics</string>
+    <string name="settings_general_entry_headline">Allgemein</string>
+    <string name="settings_general_entry_description">Sicherheit, Zwischenablage und Einheiten</string>
+    <string name="settings_appearance_entry_headline">Darstellung</string>
+    <string name="settings_appearance_entry_description">Dunkelmodus und Farben</string>
+    <string name="settings_advanced_entry_headline">Fortgeschritten</string>
+    <string name="settings_advanced_entry_description">Optionale Module, Analytics</string>
     <string name="settings_about_entry_headline">Über</string>
 
     <!-- General Settings -->
@@ -312,79 +312,79 @@
     <string name="settings_general_long_press_to_copy_description">Kopiert die Daten in den Feldern bei längerem Drücken</string>
     <string name="settings_general_copy_values_with_labels_headline">Kopiere Feldnamen mit Daten</string>
     <string name="settings_general_copy_values_with_labels_description">Kopiert die Daten mit den dazugehörigen Feldnamen</string>
-    <string name="settings_general_security_category">Security</string>
-    <string name="settings_general_block_screen_capture_headline">Block screen capture</string>
-    <string name="settings_general_block_screen_capture_description">Prevent the capture of screen content</string>
-    <string name="settings_general_hide_3rd_party_overlays_headline">Hide third-party overlays</string>
-    <string name="settings_general_hide_3rd_party_overlays_description">Hide overlays created by non-system apps</string>
-    <string name="settings_general_interactive_haptics_category">Interactive haptics</string>
-    <string name="settings_general_feedback_level_headline">Touch feedback</string>
-    <string name="settings_general_feedback_level_description">Vibrate on touch interactions</string>
-    <string name="settings_general_feedback_level_none">None</string>
+    <string name="settings_general_security_category">Sicherheit</string>
+    <string name="settings_general_block_screen_capture_headline">Bildschirmaufnahme verhindern</string>
+    <string name="settings_general_block_screen_capture_description">Blockiere das Aufnehmen von Bildschirminhalten</string>
+    <string name="settings_general_hide_3rd_party_overlays_headline">Verstecke Third-Party-Überlagerungen</string>
+    <string name="settings_general_hide_3rd_party_overlays_description">Verstecke Bildschirm-Überlagerungen von Nicht-System-Apps</string>
+    <string name="settings_general_interactive_haptics_category">Interaktive Haptik</string>
+    <string name="settings_general_feedback_level_headline">Berührungsfeedback</string>
+    <string name="settings_general_feedback_level_description">Vibriere bei Berührungseingaben</string>
+    <string name="settings_general_feedback_level_none">Keins</string>
     <string name="settings_general_feedback_level_minimal">Minimal</string>
-    <string name="settings_general_feedback_level_default">Default</string>
+    <string name="settings_general_feedback_level_default">Standard</string>
     <string name="settings_general_feedback_level_expressive">Expressive</string>
     <string name="settings_general_units_category">Einheiten</string>
     <string name="settings_general_temperature_headline">Temperatur</string>
 
     <!-- Appearance Settings -->
-    <string name="settings_appearance_dark_mode_headline">Dark mode</string>
-    <string name="settings_appearance_dark_mode_off">Off</string>
-    <string name="settings_appearance_dark_mode_on">On</string>
-    <string name="settings_appearance_dark_mode_follow_system">Follow system</string>
-    <string name="settings_appearance_dynamic_colors_headline">Use system colors</string>
-    <string name="settings_appearance_dynamic_colors_description">Use colors provided by the system</string>
-    <string name="settings_appearance_pure_black_headline">Use pure black in dark mode</string>
-    <string name="settings_appearance_pure_black_description">Replace the dark mode background with pure black</string>
-    <string name="settings_appearance_system_fonts_headline">Use system fonts</string>
-    <string name="settings_appearance_system_fonts_description">Use fonts provided by your device</string>
+    <string name="settings_appearance_dark_mode_headline">Dunkelmodus</string>
+    <string name="settings_appearance_dark_mode_off">Aus</string>
+    <string name="settings_appearance_dark_mode_on">Ein</string>
+    <string name="settings_appearance_dark_mode_follow_system">Systemstandard</string>
+    <string name="settings_appearance_dynamic_colors_headline">Verwende Systemfarben</string>
+    <string name="settings_appearance_dynamic_colors_description">Verwende vom System bereitgestellte Farben</string>
+    <string name="settings_appearance_pure_black_headline">Verwende reines Schwarz im Dunkelmodus</string>
+    <string name="settings_appearance_pure_black_description">Ersetze den Dunkelmodus-Hintergrund mit reinem Schwarz.</string>
+    <string name="settings_appearance_system_fonts_headline">Verwende Systemschriftarten</string>
+    <string name="settings_appearance_system_fonts_description">Verwende vom System bereitgestellte Schriftarten</string>
 
     <!-- Advanced Settings -->
-    <string name="settings_advanced_optional_modules_category">Optional modules</string>
+    <string name="settings_advanced_optional_modules_category">Optionale Module</string>
     <string name="settings_advanced_analytics_category">Analytics</string>
-    <string name="settings_advanced_allow_analytics_headline">Allow analytics</string>
-    <string name="settings_advanced_allow_analytics_description">Send anonymous data to help us improve Inware</string>
-    <string name="settings_advanced_reset_analytics_headline">Reset device\'s identity</string>
-    <string name="settings_advanced_reset_analytics_success">Successfully reset</string>
+    <string name="settings_advanced_allow_analytics_headline">Analytics erlauben</string>
+    <string name="settings_advanced_allow_analytics_description">Sende anonyme Nutzungsdaten und helfe uns Inware zu verbessern.</string>
+    <string name="settings_advanced_reset_analytics_headline">Geräteidentität zurücksetzen</string>
+    <string name="settings_advanced_reset_analytics_success">Erfolgreich zurückgesetzt</string>
     <string name="settings_advanced_experimental_category">Experimentell</string>
-    <string name="settings_advanced_developer_options_category">Developer options</string>
+    <string name="settings_advanced_developer_options_category">Entwicklereinstellungen</string>
 
     <!-- About Settings -->
     <string name="settings_about_privacy_policy_headline">Datenschutzerklärung</string>
     <string name="settings_about_licenses_headline">Lizenzen</string>
-    <string name="settings_about_button_channel">Channel</string>
+    <string name="settings_about_button_channel">Kanal</string>
     <string name="settings_about_button_group">Group</string>
     <string name="settings_about_button_github">GitHub</string>
     <string name="settings_about_button_twitter">Twitter</string>
     <string name="settings_about_button_website">Website</string>
-    <string name="settings_about_button_email">Email</string>
+    <string name="settings_about_button_email">E-Mail</string>
     <string name="settings_about_thanks_to_category">Dank an</string>
-    <string name="settings_about_translate_title">Help translate Inware</string>
-    <string name="settings_about_translate_summary">Join the community project to localize new features.</string>
-    <string name="settings_about_translate_action">Open project</string>
-    <string name="settings_developer_options_warning_title">Enable developer options?</string>
-    <string name="settings_developer_options_warning_message">Developer options contain advanced settings that may affect app stability and performance.\n\nEnable only if you understand the potential risks.</string>
+    <string name="settings_about_translate_title">Hilf Inware zu übersetzen</string>
+    <string name="settings_about_translate_summary">Trete dem Community-Projekt bei und übersetze neue Funktionen.</string>
+    <string name="settings_about_translate_action">Projekt öffnen</string>
+    <string name="settings_developer_options_warning_title">Entwicklereinstellungen aktivieren?</string>
+    <string name="settings_developer_options_warning_message">Entwicklereinstellungen enthalten Einstellungen, welche Stabilität und Leistung beeinflussen können.\n\nNur aktivieren, wenn du die potentiellen Risiken verstehst.</string>
     <string name="settings_developer_options_warning_proceed">Proceed</string>
 
     <!--
-    Legacy strings without new equivalents.
+Legacy strings without new equivalents.
 
-    These strings may still be used in the future. Translations are kept just in case.
-     -->
+These strings may still be used in the future. Translations are kept just in case.
+    -->
     <string name="legacy_new_version_available">Neue Version verfügbar</string>
     <string name="legacy_new_version_dialog_message">Aktualisiere auf die neuste Version, für eine bessere Nutzungserfahrung</string>
-    <string name="legacy_update">Update</string>
+    <string name="legacy_update">Aktualisieren</string>
     <string name="legacy_later">Später</string>
     <string name="legacy_shake_to_report_category">Schütteln um einen Report zu erstellen</string>
     <string name="legacy_shake_to_send_feedback">Schütteln, um Feedback zu senden</string>
     <string name="legacy_shake_to_send_feedback_summary">Schüttel dein Gerät, um von jedem Bildschirm der App aus schnell Feedback zu geben.</string>
     <string name="legacy_sensitivity">Empfindlichkeit</string>
-    <string name="legacy_notifications_category_description">Toggle push notifications</string>
+    <string name="legacy_notifications_category_description">De-/Aktiviere Push-Benachrichtigungen</string>
     <string name="legacy_experimental_category_description">Unveröffentliche Funktionen, diese können instabil sein</string>
     <string name="legacy_shake_to_report_category_description">Gerät schütteln um Feedback zu senden</string>
     <string name="legacy_identifiers">Identifizierer</string>
     <string name="legacy_stopped">Gestoppt</string>
     <string name="legacy_augmented_reality">Augmented Reality</string>
-    <string name="legacy_permission_dialog_learn_more">Learn More</string>
-    <string name="legacy_memory_storage_permission_explanation">The storage permission is required to be able to display storage-related details.</string>
+    <string name="legacy_permission_dialog_learn_more">Mehr erfahren</string>
+    <string name="legacy_memory_storage_permission_explanation">Gerätespeicherzugriff ist erforderlich, um Details zum Speicher anzuzeigen.</string>
 </resources>
