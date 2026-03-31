@@ -40,7 +40,7 @@
     <string name="settings_page">Einstellungen</string>
 
     <!-- Dashboard Hub page -->
-    <string name="dashboard_tiles_empty">Bisher keine Dashboard-Kacheln vefügbar.</string>
+    <string name="dashboard_tiles_empty">Bisher keine Dashboard-Kacheln verfügbar.</string>
     <string name="dashboard_empty_hint">Füge deine erste Dashboard-Kachel hinzu</string>
 
     <!-- Dashboard tiles -->
@@ -122,8 +122,8 @@
     <string name="device_display_current_density_headline">Aktuelle Dichte</string>
     <string name="device_display_default_density_headline">Standard-Dichte</string>
     <string name="device_display_default_orientation_headline">Standard-Orientierung</string>
-    <string name="device_display_default_orientation_portrait">Hochkant</string>
-    <string name="device_display_default_orientation_landscape">Quer</string>
+    <string name="device_display_default_orientation_portrait">Hochformat</string>
+    <string name="device_display_default_orientation_landscape">Querformat</string>
     <string name="device_display_supports_hdr_headline">HDR</string>
     <string name="device_display_adaptive_refresh_rate_headline">Adaptive Bildwiederholrate</string>
     <string name="device_security_category">Sicherheitschip</string>
@@ -273,8 +273,8 @@
     <string name="battery_technology_headline">Technologie</string>
     <string name="battery_cycle_count_headline">Ladezyklen</string>
     <string name="battery_current_display_value"><xliff:g id="current" example="304">%1$d</xliff:g> mA</string>
-    <string name="battery_voltage_display_value"><xliff:g id="voltage" example="4.384">%1$,3f</xliff:g> V</string>
-    <string name="battery_power_display_value"><xliff:g id="power" example="18">%1$,2f</xliff:g> W</string>
+    <string name="battery_voltage_display_value"><xliff:g id="voltage" example="4.384">%1$.3f</xliff:g> V</string>
+    <string name="battery_power_display_value"><xliff:g id="power" example="18">%1$.2f</xliff:g> W</string>
     <string name="battery_power_not_charging">Lädt nicht auf</string>
     <string name="battery_status_not_charging">Lädt nicht auf</string>
     <string name="battery_status_charging">Lädt auf</string>
@@ -286,9 +286,9 @@
     <string name="battery_health_overvoltage">Überspannung</string>
     <string name="battery_health_unspecified_failure">Unspezifizierter Fehler</string>
     <string name="battery_health_cold">Kalt</string>
-    <string name="battery_source_ac">Charger (AC)</string>
+    <string name="battery_source_ac">Netzteil (AC)</string>
     <string name="battery_source_usb">USB</string>
-    <string name="battery_source_wireless">Wireless</string>
+    <string name="battery_source_wireless">Kabellos</string>
 
     <!-- Media DRM page -->
     <string name="media_drm_algorithms_headline">Algorithmen</string>
@@ -343,7 +343,7 @@
     <string name="settings_advanced_optional_modules_category">Optionale Module</string>
     <string name="settings_advanced_analytics_category">Analytics</string>
     <string name="settings_advanced_allow_analytics_headline">Analytics erlauben</string>
-    <string name="settings_advanced_allow_analytics_description">Sende anonyme Nutzungsdaten und helfe uns Inware zu verbessern.</string>
+    <string name="settings_advanced_allow_analytics_description">Sende anonyme Nutzungsdaten und hilf uns Inware zu verbessern.</string>
     <string name="settings_advanced_reset_analytics_headline">Geräteidentität zurücksetzen</string>
     <string name="settings_advanced_reset_analytics_success">Erfolgreich zurückgesetzt</string>
     <string name="settings_advanced_experimental_category">Experimentell</string>
@@ -353,7 +353,7 @@
     <string name="settings_about_privacy_policy_headline">Datenschutzerklärung</string>
     <string name="settings_about_licenses_headline">Lizenzen</string>
     <string name="settings_about_button_channel">Kanal</string>
-    <string name="settings_about_button_group">Group</string>
+    <string name="settings_about_button_group">Gruppe</string>
     <string name="settings_about_button_github">GitHub</string>
     <string name="settings_about_button_twitter">Twitter</string>
     <string name="settings_about_button_website">Website</string>
@@ -364,7 +364,7 @@
     <string name="settings_about_translate_action">Projekt öffnen</string>
     <string name="settings_developer_options_warning_title">Entwicklereinstellungen aktivieren?</string>
     <string name="settings_developer_options_warning_message">Entwicklereinstellungen enthalten Einstellungen, welche Stabilität und Leistung beeinflussen können.\n\nNur aktivieren, wenn du die potentiellen Risiken verstehst.</string>
-    <string name="settings_developer_options_warning_proceed">Proceed</string>
+    <string name="settings_developer_options_warning_proceed">Fortfahren</string>
 
     <!--
 Legacy strings without new equivalents.
@@ -380,7 +380,7 @@ These strings may still be used in the future. Translations are kept just in cas
     <string name="legacy_shake_to_send_feedback_summary">Schüttel dein Gerät, um von jedem Bildschirm der App aus schnell Feedback zu geben.</string>
     <string name="legacy_sensitivity">Empfindlichkeit</string>
     <string name="legacy_notifications_category_description">De-/Aktiviere Push-Benachrichtigungen</string>
-    <string name="legacy_experimental_category_description">Unveröffentliche Funktionen, diese können instabil sein</string>
+    <string name="legacy_experimental_category_description">Unveröffentlichte Funktionen, diese können instabil sein</string>
     <string name="legacy_shake_to_report_category_description">Gerät schütteln um Feedback zu senden</string>
     <string name="legacy_identifiers">Identifizierer</string>
     <string name="legacy_stopped">Gestoppt</string>
